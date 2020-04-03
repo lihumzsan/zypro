@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-admin" />
+        <module name="mall-demo" />
+        <module name="mall-mbg" />
+        <module name="mall-portal" />
+        <module name="mall-search" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="mall" target="1.5" />
+      <module name="mall-admin" target="1.5" />
+      <module name="mall-demo" target="1.5" />
+      <module name="mall-mbg" target="1.5" />
+      <module name="mall-portal" target="1.5" />
+      <module name="mall-search" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
