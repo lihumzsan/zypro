@@ -1,0 +1,33 @@
+Invoking Maven for the goals: [org.apache.maven.plugins:maven-javadoc-plugin:2.10.4:javadoc] with no properties
+
+M2_HOME=C:\depends\apache-maven-3.5.2
+MAVEN_OPTS=null
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_202\jre\..
+JAVA_OPTS=null
+
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building paascloud-security-feign 1.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> maven-javadoc-plugin:2.10.4:javadoc (default-cli) > generate-sources @ paascloud-security-feign >>>
+[INFO] 
+[INFO] <<< maven-javadoc-plugin:2.10.4:javadoc (default-cli) < generate-sources @ paascloud-security-feign <<<
+[INFO] 
+[INFO] Downloading from aliNexus: http://maven.aliyun.com/nexus/content/groups/public/com/liuzm/paascloud/common/paascloud-common-base/1.0/paascloud-common-base-1.0.pom
+[INFO] Downloading from alimaven: http://maven.aliyun.com/nexus/content/groups/public/com/liuzm/paascloud/common/paascloud-common-base/1.0/paascloud-common-base-1.0.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 5.829 s
+[INFO] Finished at: 2020-05-27T19:06:09+08:00
+[INFO] Final Memory: 33M/324M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal on project paascloud-security-feign: Could not resolve dependencies for project com.liuzm.paascloud.common:paascloud-security-feign:jar:1.0: Failed to collect dependencies at com.liuzm.paascloud.common:paascloud-common-base:jar:1.0: Failed to read artifact descriptor for com.liuzm.paascloud.common:paascloud-common-base:jar:1.0: Could not transfer artifact com.liuzm.paascloud.common:paascloud-common-base:pom:1.0 from/to aliNexus (http://maven.aliyun.com/nexus/content/groups/public/): sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/DependencyResolutionException

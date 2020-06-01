@@ -1,0 +1,15 @@
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\model\domain\MqMessageData.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\annotation\MqProducerStore.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\aspect\MqProducerStoreAspect.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\autoconfigure\MessageAutoConfiguration.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\annotation\MqConsumerStore.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\model\enums\MqMessageTypeEnum.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\model\enums\MqSendTypeEnum.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\service\impl\MqMessageServiceImpl.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\mapper\MqMessageDataMapper.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\model\enums\MqOrderTypeEnum.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\aspect\MqConsumerStoreAspect.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\model\dto\UpdateAttachmentDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\model\enums\DelayLevelEnum.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\service\MqMessageService.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-sdk-api\src\main\java\com\paascloud\provider\autoconfigure\MessageBeanConfiguration.java

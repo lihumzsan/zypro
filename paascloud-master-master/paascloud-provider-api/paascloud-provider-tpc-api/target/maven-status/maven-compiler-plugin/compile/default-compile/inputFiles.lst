@@ -1,0 +1,7 @@
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\model\enums\JobTaskStatusEnum.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\service\hystrix\TpcMqMessageFeignApiHystrix.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\service\TpcMqMessageFeignApi.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\exceptions\TpcBizException.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\model\dto\PcMessageJobTask.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\model\dto\TpcMqMessageDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\model\dto\PcJobTask.java

@@ -1,0 +1,17 @@
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\LoginReqDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\UserInfoDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\UacMqMessageFeignApi.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\vo\MenuVo.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\UserRegisterDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ResetPasswordDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\constant\UacConstant.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ForgetCheckAnswerDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\hystrix\UacMqMessageApiHystrix.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\IdStatusDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\exceptions\UacBizException.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\Perm.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ForgetResetPasswordDto.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\constant\UacApiConstant.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\UacUserTokenFeignApi.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\enums\UacGroupTypeEnum.java
+C:\workspace\demo\zypro\paascloud-master-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\hystrix\UacUserTokenFeignApiHystrix.java

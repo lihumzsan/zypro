@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ace-sidecar-client-demo" />
+        <module name="ace-trace" />
+        <module name="ace-monitor" />
+        <module name="ace-auth-server" />
+        <module name="ace-gateway-v2" />
+        <module name="ace-common" />
+        <module name="ace-interface" />
+        <module name="ace-auth-client" />
+        <module name="ace-tool" />
+        <module name="ace-sidecar-server" />
+        <module name="ace-generator" />
+        <module name="ace-auth-common" />
+        <module name="ace-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ace-admin" target="1.8" />
+      <module name="ace-auth" target="1.8" />
+      <module name="ace-auth-client" target="1.8" />
+      <module name="ace-auth-common" target="1.8" />
+      <module name="ace-auth-server" target="1.8" />
+      <module name="ace-common" target="1.8" />
+      <module name="ace-control" target="1.8" />
+      <module name="ace-gate" target="1.8" />
+      <module name="ace-gateway-v2" target="1.8" />
+      <module name="ace-generator" target="1.7" />
+      <module name="ace-interface" target="1.8" />
+      <module name="ace-modules" target="1.8" />
+      <module name="ace-monitor" target="1.8" />
+      <module name="ace-security" target="1.8" />
+      <module name="ace-sidecar" target="1.8" />
+      <module name="ace-sidecar-client-demo" target="1.8" />
+      <module name="ace-sidecar-server" target="1.8" />
+      <module name="ace-tool" target="1.8" />
+      <module name="ace-trace" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ace-admin" options="-parameters" />
+      <module name="ace-auth-client" options="-parameters" />
+      <module name="ace-auth-common" options="-parameters" />
+      <module name="ace-auth-server" options="-parameters" />
+      <module name="ace-common" options="-parameters" />
+      <module name="ace-gateway-v2" options="-parameters" />
+      <module name="ace-generator" options="-parameters" />
+      <module name="ace-interface" options="-parameters" />
+      <module name="ace-monitor" options="-parameters" />
+      <module name="ace-sidecar-client-demo" options="-parameters" />
+      <module name="ace-sidecar-server" options="-parameters" />
+      <module name="ace-tool" options="-parameters" />
+    </option>
+  </component>
+</project>
